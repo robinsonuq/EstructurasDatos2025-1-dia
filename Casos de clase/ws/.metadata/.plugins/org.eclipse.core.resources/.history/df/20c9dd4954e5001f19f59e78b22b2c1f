@@ -1,0 +1,7 @@
+package recursividad;
+
+public class Arreglos {
+
+	int arreglo[] = {1,2,3,4,5};
+	imprimirArreglo(arreglo);
+}
