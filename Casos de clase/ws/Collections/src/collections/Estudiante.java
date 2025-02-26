@@ -1,5 +1,7 @@
 package collections;
 
+import java.util.Objects;
+
 public class Estudiante implements Comparable<Estudiante>{
 
 	private String nombre;
@@ -41,6 +43,22 @@ public class Estudiante implements Comparable<Estudiante>{
 	public String toString() {
 		return "Estudiante [nombre=" + nombre + ", edad=" + edad + ", cedula=" + cedula + "]";
 	}
+	@Override
+	public int hashCode() {
+		return Objects.hash(nombre);
+	}
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Estudiante other = (Estudiante) obj;
+		return Objects.equals(nombre, other.nombre);
+	}
+	
 	
 	
 }
