@@ -4,6 +4,23 @@
     <fullyQualifiedTypeName name="parametros.Estudiante"/>
     <fullyQualifiedTypeName name="java.util.function.Predicate"/>
     <fullyQualifiedTypeName name="collections.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="collections.ComparatorCedula"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="collections.Estudiante"/>
+    <fullyQualifiedTypeName name="partido.EquipoFutbol"/>
+    <fullyQualifiedTypeName name="partido.Robinson"/>
+    <fullyQualifiedTypeName name="partido.CR7"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="partido.Jugador"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="generics.Camion"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="generics.ArrayList"/>
+    <fullyQualifiedTypeName name="generics.Universidad"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="generics.Pareja"/>
 </qualifiedTypeNameHistroy>
