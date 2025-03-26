@@ -24,6 +24,13 @@ public class ListaSimple {
 		this.nodoPrimero = nodoPrimero;
 	}
 
+	public void removeEnd() {
+		
+	}
+	
+	
+	
+	
 	public void addFirst(int dato) {
 		Nodo nuevoNodo =  new Nodo(dato);
 		if(isEmpty()) {
@@ -50,6 +57,7 @@ public class ListaSimple {
 		nodoUltimo = nuevoNodo;
 		size ++;
 	}
+	
 	public void imprimirLista() {
 
 		if(isEmpty()) {

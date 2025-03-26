@@ -31,4 +31,9 @@
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="ecommerce.Calculable"/>
+    <fullyQualifiedTypeName name="listassimple.ListaSimple"/>
+    <fullyQualifiedTypeName name="listassimple.Nodo"/>
+    <fullyQualifiedTypeName name="biblioteca.Biblioteca"/>
+    <fullyQualifiedTypeName name="listassimplegenerica.Nodo"/>
+    <fullyQualifiedTypeName name="listassimplegenerica.ListaSimple"/>
 </qualifiedTypeNameHistroy>
